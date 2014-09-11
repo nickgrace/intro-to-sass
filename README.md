@@ -1,2 +1,2 @@
-intro-to-drupal
+intro-to-sass
 ===============
